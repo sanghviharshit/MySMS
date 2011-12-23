@@ -1,0 +1,1 @@
+Made Changes in the class files of moyocore-n-joc-v2.1.3.zip, so that it does not check for evaluation copy.

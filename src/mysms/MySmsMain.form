@@ -1,0 +1,603 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.5" maxVersion="1.7" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <NonVisualComponents>
+    <Container class="javax.swing.JFrame" name="OptionsFrame">
+      <Properties>
+        <Property name="title" type="java.lang.String" resourceKey="OptionsFrame.title"/>
+        <Property name="name" type="java.lang.String" value="OptionsFrame" noResource="true"/>
+      </Properties>
+
+      <Layout>
+        <DimensionLayout dim="0">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="1" attributes="0">
+                  <EmptySpace min="-2" pref="56" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Component id="lblUserInfo" alignment="0" pref="394" max="32767" attributes="0"/>
+                      <Group type="102" alignment="0" attributes="0">
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Group type="102" alignment="0" attributes="0">
+                                  <Component id="lblServerInfo" max="32767" attributes="0"/>
+                                  <EmptySpace min="233" pref="233" max="233" attributes="0"/>
+                              </Group>
+                              <Group type="102" alignment="0" attributes="0">
+                                  <Component id="lblLogonInfo" max="32767" attributes="0"/>
+                                  <EmptySpace min="237" pref="237" max="237" attributes="0"/>
+                              </Group>
+                              <Group type="102" alignment="0" attributes="0">
+                                  <Group type="103" groupAlignment="0" attributes="0">
+                                      <Group type="102" alignment="0" attributes="0">
+                                          <EmptySpace min="-2" pref="10" max="-2" attributes="0"/>
+                                          <Group type="103" groupAlignment="0" attributes="0">
+                                              <Group type="102" alignment="0" attributes="0">
+                                                  <Component id="lb160by2LoginName" max="32767" attributes="0"/>
+                                                  <EmptySpace min="62" pref="62" max="62" attributes="0"/>
+                                              </Group>
+                                              <Group type="102" alignment="0" attributes="0">
+                                                  <Component id="lbl160by2Email" max="32767" attributes="0"/>
+                                                  <EmptySpace min="51" pref="51" max="51" attributes="0"/>
+                                              </Group>
+                                              <Group type="102" alignment="0" attributes="0">
+                                                  <Component id="lblSMTPServer" max="32767" attributes="0"/>
+                                                  <EmptySpace min="42" pref="42" max="42" attributes="0"/>
+                                              </Group>
+                                              <Component id="lblSMTPPort" alignment="0" max="32767" attributes="0"/>
+                                              <Group type="102" alignment="0" attributes="0">
+                                                  <Component id="lblSSL" max="32767" attributes="0"/>
+                                                  <EmptySpace min="162" pref="162" max="162" attributes="0"/>
+                                              </Group>
+                                              <Group type="102" alignment="0" attributes="0">
+                                                  <Component id="lblEmailPassword" max="32767" attributes="0"/>
+                                                  <EmptySpace min="110" pref="110" max="110" attributes="0"/>
+                                              </Group>
+                                              <Group type="102" alignment="0" attributes="0">
+                                                  <Component id="lblEmailUserName" max="32767" attributes="0"/>
+                                                  <EmptySpace min="100" pref="100" max="100" attributes="0"/>
+                                              </Group>
+                                          </Group>
+                                          <EmptySpace min="-2" pref="18" max="-2" attributes="0"/>
+                                      </Group>
+                                      <Group type="102" alignment="1" attributes="0">
+                                          <Component id="butSave" min="-2" max="-2" attributes="0"/>
+                                          <EmptySpace min="-2" pref="63" max="-2" attributes="0"/>
+                                      </Group>
+                                  </Group>
+                                  <Group type="103" groupAlignment="0" attributes="0">
+                                      <Component id="txtEmailPassword" pref="131" max="32767" attributes="2"/>
+                                      <Group type="102" alignment="0" attributes="0">
+                                          <Component id="chbSSL" max="32767" attributes="0"/>
+                                          <EmptySpace min="88" pref="88" max="88" attributes="0"/>
+                                      </Group>
+                                      <Group type="102" alignment="0" attributes="0">
+                                          <Component id="txtSMTPPort" pref="59" max="32767" attributes="0"/>
+                                          <EmptySpace min="72" pref="72" max="72" attributes="0"/>
+                                      </Group>
+                                      <Component id="txtSMTPServer" pref="131" max="32767" attributes="2"/>
+                                      <Component id="txt160by2Email" pref="131" max="32767" attributes="2"/>
+                                      <Component id="txt160by2LoginName" alignment="0" pref="131" max="32767" attributes="2"/>
+                                      <Component id="butCloseOptions" alignment="0" min="-2" max="-2" attributes="0"/>
+                                      <Component id="txtEmailUserName" alignment="0" pref="131" max="32767" attributes="2"/>
+                                  </Group>
+                              </Group>
+                          </Group>
+                          <EmptySpace min="-2" pref="52" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+                  <EmptySpace max="-2" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+        <DimensionLayout dim="1">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="1" attributes="0">
+                  <EmptySpace pref="28" max="32767" attributes="0"/>
+                  <Component id="lblUserInfo" min="-2" pref="14" max="-2" attributes="0"/>
+                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                      <Group type="102" alignment="0" attributes="0">
+                          <EmptySpace min="-2" pref="6" max="-2" attributes="0"/>
+                          <Component id="lb160by2LoginName" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <Component id="txt160by2LoginName" alignment="3" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace type="unrelated" min="-2" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                      <Group type="102" alignment="0" attributes="0">
+                          <EmptySpace min="-2" pref="6" max="-2" attributes="0"/>
+                          <Component id="lbl160by2Email" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <Component id="txt160by2Email" alignment="3" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace min="-2" pref="25" max="-2" attributes="0"/>
+                  <Component id="lblServerInfo" min="-2" pref="14" max="-2" attributes="0"/>
+                  <EmptySpace type="unrelated" min="-2" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                      <Group type="102" alignment="0" attributes="0">
+                          <EmptySpace min="-2" pref="6" max="-2" attributes="0"/>
+                          <Component id="lblSMTPServer" min="-2" pref="14" max="-2" attributes="0"/>
+                      </Group>
+                      <Component id="txtSMTPServer" alignment="3" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace type="unrelated" min="-2" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                      <Group type="102" alignment="0" attributes="0">
+                          <EmptySpace min="-2" pref="6" max="-2" attributes="0"/>
+                          <Component id="lblSMTPPort" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <Component id="txtSMTPPort" alignment="3" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace type="unrelated" min="-2" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                      <Group type="102" alignment="0" attributes="0">
+                          <EmptySpace min="-2" pref="9" max="-2" attributes="0"/>
+                          <Component id="lblSSL" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <Component id="chbSSL" alignment="3" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace type="separate" min="-2" max="-2" attributes="0"/>
+                  <Component id="lblLogonInfo" min="-2" pref="14" max="-2" attributes="0"/>
+                  <EmptySpace type="unrelated" min="-2" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                      <Group type="102" alignment="0" attributes="0">
+                          <EmptySpace min="-2" pref="5" max="-2" attributes="0"/>
+                          <Component id="lblEmailUserName" min="-2" pref="15" max="-2" attributes="0"/>
+                      </Group>
+                      <Component id="txtEmailUserName" alignment="3" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace type="unrelated" min="-2" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                      <Group type="102" alignment="0" attributes="0">
+                          <EmptySpace min="-2" pref="6" max="-2" attributes="0"/>
+                          <Component id="lblEmailPassword" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <Component id="txtEmailPassword" alignment="3" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace min="-2" pref="36" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="butCloseOptions" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="butSave" alignment="3" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace max="-2" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+      </Layout>
+      <SubComponents>
+        <Component class="javax.swing.JLabel" name="lb160by2LoginName">
+          <Properties>
+            <Property name="text" type="java.lang.String" resourceKey="lb160by2LoginName.text"/>
+            <Property name="name" type="java.lang.String" value="lb160by2LoginName" noResource="true"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="lbl160by2Email">
+          <Properties>
+            <Property name="text" type="java.lang.String" resourceKey="lbl160by2Email.text"/>
+            <Property name="name" type="java.lang.String" value="lbl160by2Email" noResource="true"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="lblEmailUserName">
+          <Properties>
+            <Property name="text" type="java.lang.String" resourceKey="lblEmailUserName.text"/>
+            <Property name="name" type="java.lang.String" value="lblEmailUserName" noResource="true"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="lblEmailPassword">
+          <Properties>
+            <Property name="text" type="java.lang.String" resourceKey="lblEmailPassword.text"/>
+            <Property name="name" type="java.lang.String" value="lblEmailPassword" noResource="true"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="lblUserInfo">
+          <Properties>
+            <Property name="font" type="java.awt.Font" resourceKey="lblUserInfo.font"/>
+            <Property name="text" type="java.lang.String" resourceKey="lblUserInfo.text"/>
+            <Property name="name" type="java.lang.String" value="lblUserInfo" noResource="true"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="lblServerInfo">
+          <Properties>
+            <Property name="font" type="java.awt.Font" resourceKey="lblServerInfo.font"/>
+            <Property name="text" type="java.lang.String" resourceKey="lblServerInfo.text"/>
+            <Property name="name" type="java.lang.String" value="lblServerInfo" noResource="true"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="lblSMTPServer">
+          <Properties>
+            <Property name="text" type="java.lang.String" resourceKey="lblSMTPServer.text"/>
+            <Property name="name" type="java.lang.String" value="lblSMTPServer" noResource="true"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="lblSMTPPort">
+          <Properties>
+            <Property name="text" type="java.lang.String" resourceKey="lblSMTPPort.text"/>
+            <Property name="name" type="java.lang.String" value="lblSMTPPort" noResource="true"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="lblSSL">
+          <Properties>
+            <Property name="text" type="java.lang.String" resourceKey="lblSSL.text"/>
+            <Property name="name" type="java.lang.String" value="lblSSL" noResource="true"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="lblLogonInfo">
+          <Properties>
+            <Property name="font" type="java.awt.Font" resourceKey="lblLogonInfo.font"/>
+            <Property name="text" type="java.lang.String" resourceKey="lblLogonInfo.text"/>
+            <Property name="name" type="java.lang.String" value="lblLogonInfo" noResource="true"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JTextField" name="txt160by2LoginName">
+          <Properties>
+            <Property name="text" type="java.lang.String" resourceKey="txt160by2LoginName.text"/>
+            <Property name="name" type="java.lang.String" value="txt160by2LoginName" noResource="true"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JTextField" name="txt160by2Email">
+          <Properties>
+            <Property name="text" type="java.lang.String" resourceKey="txt160by2Email.text"/>
+            <Property name="name" type="java.lang.String" value="txt160by2Email" noResource="true"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JTextField" name="txtSMTPServer">
+          <Properties>
+            <Property name="text" type="java.lang.String" resourceKey="txtSMTPServer.text"/>
+            <Property name="name" type="java.lang.String" value="txtSMTPServer" noResource="true"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JTextField" name="txtSMTPPort">
+          <Properties>
+            <Property name="text" type="java.lang.String" resourceKey="txtSMTPPort.text"/>
+            <Property name="name" type="java.lang.String" value="txtSMTPPort" noResource="true"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JCheckBox" name="chbSSL">
+          <Properties>
+            <Property name="text" type="java.lang.String" resourceKey="chbSSL.text"/>
+            <Property name="name" type="java.lang.String" value="chbSSL" noResource="true"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JTextField" name="txtEmailUserName">
+          <Properties>
+            <Property name="text" type="java.lang.String" resourceKey="txtEmailUserName.text"/>
+            <Property name="name" type="java.lang.String" value="txtEmailUserName" noResource="true"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JPasswordField" name="txtEmailPassword">
+          <Properties>
+            <Property name="text" type="java.lang.String" resourceKey="txtEmailPassword.text"/>
+            <Property name="name" type="java.lang.String" value="txtEmailPassword" noResource="true"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JButton" name="butSave">
+          <Properties>
+            <Property name="action" type="javax.swing.Action" editor="org.netbeans.modules.swingapp.ActionEditor">
+              <action class="mysms.Main" id="saveOptions" methodName="saveOptions"/>
+            </Property>
+            <Property name="text" type="java.lang.String" resourceKey="butSave.text"/>
+            <Property name="name" type="java.lang.String" value="butSave" noResource="true"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JButton" name="butCloseOptions">
+          <Properties>
+            <Property name="action" type="javax.swing.Action" editor="org.netbeans.modules.swingapp.ActionEditor">
+              <action class="mysms.MySmsMain" id="closeOptions" methodName="closeOptions"/>
+            </Property>
+            <Property name="text" type="java.lang.String" resourceKey="butCloseOptions.text"/>
+            <Property name="name" type="java.lang.String" value="butCloseOptions" noResource="true"/>
+          </Properties>
+        </Component>
+      </SubComponents>
+    </Container>
+    <Menu class="javax.swing.JMenuBar" name="mainMenuBar">
+      <Properties>
+        <Property name="name" type="java.lang.String" value="mainMenuBar" noResource="true"/>
+      </Properties>
+      <SubComponents>
+        <Menu class="javax.swing.JMenu" name="fileMenu">
+          <Properties>
+            <Property name="text" type="java.lang.String" resourceKey="fileMenu.text"/>
+            <Property name="name" type="java.lang.String" value="fileMenu" noResource="true"/>
+          </Properties>
+          <SubComponents>
+            <MenuItem class="javax.swing.JMenuItem" name="exitItem">
+              <Properties>
+                <Property name="action" type="javax.swing.Action" editor="org.netbeans.modules.swingapp.ActionEditor">
+                  <action class="org.jdesktop.application.Application" id="quit" methodName="quit"/>
+                </Property>
+                <Property name="text" type="java.lang.String" resourceKey="exitItem.text"/>
+                <Property name="name" type="java.lang.String" value="exitItem" noResource="true"/>
+              </Properties>
+            </MenuItem>
+          </SubComponents>
+        </Menu>
+        <Menu class="javax.swing.JMenu" name="optionsMenu">
+          <Properties>
+            <Property name="text" type="java.lang.String" resourceKey="optionsMenu.text"/>
+            <Property name="name" type="java.lang.String" value="optionsMenu" noResource="true"/>
+          </Properties>
+          <SubComponents>
+            <MenuItem class="javax.swing.JMenuItem" name="configurationItem">
+              <Properties>
+                <Property name="action" type="javax.swing.Action" editor="org.netbeans.modules.swingapp.ActionEditor">
+                  <action class="mysms.Main" id="showOptionsFrame" methodName="showOptionsFrame"/>
+                </Property>
+                <Property name="text" type="java.lang.String" resourceKey="configurationItem.text"/>
+                <Property name="name" type="java.lang.String" value="configurationItem" noResource="true"/>
+              </Properties>
+              <AuxValues>
+                <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="10"/>
+              </AuxValues>
+            </MenuItem>
+          </SubComponents>
+        </Menu>
+        <Menu class="javax.swing.JMenu" name="helpMenu">
+          <Properties>
+            <Property name="text" type="java.lang.String" resourceKey="helpMenu.text"/>
+            <Property name="name" type="java.lang.String" value="helpMenu" noResource="true"/>
+          </Properties>
+          <SubComponents>
+            <MenuItem class="javax.swing.JMenuItem" name="aboutItem">
+              <Properties>
+                <Property name="action" type="javax.swing.Action" editor="org.netbeans.modules.swingapp.ActionEditor">
+                  <action class="mysms.MySmsSend" id="showAboutBox" methodName="showAboutBox"/>
+                </Property>
+                <Property name="icon" type="javax.swing.Icon" resourceKey="aboutItem.icon"/>
+                <Property name="text" type="java.lang.String" resourceKey="aboutItem.text"/>
+                <Property name="name" type="java.lang.String" value="aboutItem" noResource="true"/>
+              </Properties>
+            </MenuItem>
+          </SubComponents>
+        </Menu>
+      </SubComponents>
+    </Menu>
+  </NonVisualComponents>
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+    <Property name="title" type="java.lang.String" resourceKey="Form.title"/>
+    <Property name="name" type="java.lang.String" value="Form" noResource="true"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="menuBar" type="java.lang.String" value="mainMenuBar"/>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="2"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Component id="TabbedPane" alignment="0" pref="443" max="32767" attributes="0"/>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Component id="TabbedPane" alignment="0" max="32767" attributes="0"/>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Container class="javax.swing.JTabbedPane" name="TabbedPane">
+      <Properties>
+        <Property name="name" type="java.lang.String" value="TabbedPane" noResource="true"/>
+      </Properties>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.support.JTabbedPaneSupportLayout"/>
+      <SubComponents>
+        <Container class="javax.swing.JPanel" name="mainPanel">
+          <Properties>
+            <Property name="name" type="java.lang.String" value="mainPanel" noResource="true"/>
+          </Properties>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.support.JTabbedPaneSupportLayout" value="org.netbeans.modules.form.compat2.layouts.support.JTabbedPaneSupportLayout$JTabbedPaneConstraintsDescription">
+              <JTabbedPaneConstraints tabName="Send SMS">
+                <Property name="tabTitle" type="java.lang.String" resourceKey="mainPanel.TabConstraints.tabTitle"/>
+              </JTabbedPaneConstraints>
+            </Constraint>
+          </Constraints>
+
+          <Layout>
+            <DimensionLayout dim="0">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="1" attributes="0">
+                          <Component id="lblMessage" alignment="1" min="-2" max="-2" attributes="0"/>
+                          <Component id="lblTo" alignment="1" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="36" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="102" alignment="1" attributes="0">
+                              <Component id="statusMessageLabel" pref="127" max="32767" attributes="0"/>
+                              <EmptySpace type="separate" max="-2" attributes="0"/>
+                              <Component id="progressBar" min="-2" pref="146" max="-2" attributes="0"/>
+                              <EmptySpace type="separate" max="-2" attributes="0"/>
+                              <Component id="statusAnimationLabel" min="-2" pref="27" max="-2" attributes="0"/>
+                          </Group>
+                          <Group type="102" alignment="0" attributes="0">
+                              <Component id="btSend" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="btSchedule" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace min="-2" pref="5" max="-2" attributes="0"/>
+                              <Component id="btClear" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <Group type="102" alignment="0" attributes="0">
+                              <Component id="txtTo" min="-2" pref="146" max="-2" attributes="2"/>
+                              <EmptySpace type="separate" max="-2" attributes="0"/>
+                              <Component id="btAddNum" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <Component id="MessageScrollPane" alignment="0" min="-2" pref="316" max="-2" attributes="1"/>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+            </DimensionLayout>
+            <DimensionLayout dim="1">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="1" attributes="0">
+                      <EmptySpace min="-2" pref="45" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="lblTo" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="txtTo" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="btAddNum" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="lblMessage" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Group type="102" alignment="1" attributes="0">
+                              <Component id="MessageScrollPane" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="32767" attributes="0"/>
+                              <Group type="103" groupAlignment="3" attributes="0">
+                                  <Component id="btSend" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  <Component id="btClear" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  <Component id="btSchedule" alignment="3" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                      </Group>
+                      <EmptySpace min="-2" pref="30" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="statusAnimationLabel" alignment="0" pref="19" max="32767" attributes="1"/>
+                          <Component id="progressBar" alignment="1" pref="19" max="32767" attributes="1"/>
+                          <Component id="statusMessageLabel" alignment="1" min="-2" max="-2" attributes="1"/>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+            </DimensionLayout>
+          </Layout>
+          <SubComponents>
+            <Component class="javax.swing.JLabel" name="lblTo">
+              <Properties>
+                <Property name="text" type="java.lang.String" resourceKey="lblTo.text"/>
+                <Property name="name" type="java.lang.String" value="lblTo" noResource="true"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="lblMessage">
+              <Properties>
+                <Property name="text" type="java.lang.String" resourceKey="lblMessage.text"/>
+                <Property name="name" type="java.lang.String" value="lblMessage" noResource="true"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JTextField" name="txtTo">
+              <Properties>
+                <Property name="name" type="java.lang.String" value="txtTo" noResource="true"/>
+              </Properties>
+              <AuxValues>
+                <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="10"/>
+              </AuxValues>
+            </Component>
+            <Container class="javax.swing.JScrollPane" name="MessageScrollPane">
+              <Properties>
+                <Property name="name" type="java.lang.String" value="MessageScrollPane" noResource="true"/>
+              </Properties>
+              <AuxValues>
+                <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+              </AuxValues>
+
+              <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+              <SubComponents>
+                <Component class="javax.swing.JTextArea" name="txtAMessage">
+                  <Properties>
+                    <Property name="columns" type="int" value="20"/>
+                    <Property name="rows" type="int" value="5"/>
+                    <Property name="name" type="java.lang.String" value="txtAMessage" noResource="true"/>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="keyReleased" listener="java.awt.event.KeyListener" parameters="java.awt.event.KeyEvent" handler="txtAMessageKeyReleased"/>
+                  </Events>
+                </Component>
+              </SubComponents>
+            </Container>
+            <Component class="javax.swing.JButton" name="btSend">
+              <Properties>
+                <Property name="action" type="javax.swing.Action" editor="org.netbeans.modules.swingapp.ActionEditor">
+                  <action class="mysms.Main" id="sendSms" methodName="sendSms"/>
+                </Property>
+                <Property name="text" type="java.lang.String" resourceKey="btSend.text"/>
+                <Property name="name" type="java.lang.String" value="btSend" noResource="true"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JButton" name="btClear">
+              <Properties>
+                <Property name="action" type="javax.swing.Action" editor="org.netbeans.modules.swingapp.ActionEditor">
+                  <action class="mysms.MySmsView" id="clear" methodName="clear"/>
+                </Property>
+                <Property name="text" type="java.lang.String" resourceKey="btClear.text"/>
+                <Property name="name" type="java.lang.String" value="btClear" noResource="true"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JButton" name="btAddNum">
+              <Properties>
+                <Property name="action" type="javax.swing.Action" editor="org.netbeans.modules.swingapp.ActionEditor">
+                  <action class="mysms.MySmsView" id="addNumber" methodName="addNumber"/>
+                </Property>
+                <Property name="text" type="java.lang.String" resourceKey="btAddNum.text"/>
+                <Property name="name" type="java.lang.String" value="btAddNum" noResource="true"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JButton" name="btSchedule">
+              <Properties>
+                <Property name="action" type="javax.swing.Action" editor="org.netbeans.modules.swingapp.ActionEditor">
+                  <action class="mysms.Main" id="scheduleSMS" methodName="scheduleSMS"/>
+                </Property>
+                <Property name="text" type="java.lang.String" resourceKey="btSchedule.text"/>
+                <Property name="name" type="java.lang.String" value="btSchedule" noResource="true"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JProgressBar" name="progressBar">
+              <Properties>
+                <Property name="name" type="java.lang.String" value="progressBar" noResource="true"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="statusMessageLabel">
+              <Properties>
+                <Property name="text" type="java.lang.String" resourceKey="statusMessageLabel.text"/>
+                <Property name="name" type="java.lang.String" value="statusMessageLabel" noResource="true"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="statusAnimationLabel">
+              <Properties>
+                <Property name="text" type="java.lang.String" resourceKey="statusAnimationLabel.text"/>
+                <Property name="name" type="java.lang.String" value="statusAnimationLabel" noResource="true"/>
+              </Properties>
+            </Component>
+          </SubComponents>
+        </Container>
+        <Container class="javax.swing.JPanel" name="scheduledPanel">
+          <Properties>
+            <Property name="name" type="java.lang.String" value="scheduledPanel" noResource="true"/>
+          </Properties>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.support.JTabbedPaneSupportLayout" value="org.netbeans.modules.form.compat2.layouts.support.JTabbedPaneSupportLayout$JTabbedPaneConstraintsDescription">
+              <JTabbedPaneConstraints tabName="Scheduled SMS">
+                <Property name="tabTitle" type="java.lang.String" resourceKey="scheduledPanel.TabConstraints.tabTitle"/>
+              </JTabbedPaneConstraints>
+            </Constraint>
+          </Constraints>
+
+          <Layout>
+            <DimensionLayout dim="0">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <EmptySpace min="0" pref="438" max="32767" attributes="0"/>
+              </Group>
+            </DimensionLayout>
+            <DimensionLayout dim="1">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <EmptySpace min="0" pref="271" max="32767" attributes="0"/>
+              </Group>
+            </DimensionLayout>
+          </Layout>
+        </Container>
+      </SubComponents>
+    </Container>
+  </SubComponents>
+</Form>

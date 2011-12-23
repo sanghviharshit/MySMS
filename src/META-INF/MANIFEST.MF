@@ -1,0 +1,513 @@
+Manifest-Version: 1.0
+Class-Path: moyocore.jar
+Sealed: true
+Created-By: Moyosoft
+
+Name: com/moyosoft/connector/ms/outlook/journal/OutlookJournal.class
+SHA1-Digest: VbyVKaa1p1X7ogRGT5mEpimvlyc=
+
+Name: com/moyosoft/connector/ms/outlook/recurrence/RecurrencePattern.c
+ lass
+SHA1-Digest: RvAOfmMSmVh7s98FyJ3TsMnWVeE=
+
+Name: com/moyosoft/connector/ms/outlook/recipient/OutlookMailRecipient
+ .class
+SHA1-Digest: EXQnb8+tdRYofaI4pUTTwy9y6jk=
+
+Name: com/moyosoft/connector/ms/outlook/ui/InspectorClose.class
+SHA1-Digest: Jzg+OPckRoU2O/W3NA1TqeRrR3M=
+
+Name: com/moyosoft/connector/ms/outlook/ui/FormDescription.class
+SHA1-Digest: T9hzuYu6QovSHd/A2dPebFr4uxc=
+
+Name: com/moyosoft/connector/ms/outlook/search/Search.class
+SHA1-Digest: mbkRfYm+Lp+UXpIXd2h4w53/JMQ=
+
+Name: com/moyosoft/connector/ms/outlook/folder/FoldersCollection.class
+SHA1-Digest: Y6ChpWS+tREC8xcKV0xHppW5jw0=
+
+Name: com/moyosoft/connector/ms/outlook/Outlook.class
+SHA1-Digest: klmFPxSUYCI9UhPBaRehfpjibdc=
+
+Name: com/moyosoft/connector/ms/outlook/mail/PermissionService.class
+SHA1-Digest: hdz/WBcRFrGnFnJ5FEZNYE/nbOE=
+
+Name: com/moyosoft/connector/ms/outlook/item/Conflict.class
+SHA1-Digest: TBM0OXW8Z8pcsdhI/k7gOsY0O9A=
+
+Name: com/moyosoft/connector/ms/outlook/folder/OutlookFolder.class
+SHA1-Digest: caH90CX1Ii6+wBF51Znysh6XWes=
+
+Name: com/moyosoft/connector/ms/outlook/ui/ViewSaveOption.class
+SHA1-Digest: EZoSj9KgyQaTt24WnJ3A/m3GODQ=
+
+Name: com/moyosoft/connector/ms/outlook/ui/OutlookBarShortcutsCollecti
+ on.class
+SHA1-Digest: HQN+EV+nEZBTO+PoUuks4wjb6Ws=
+
+Name: com/moyosoft/connector/ms/outlook/item/ItemsIterator.class
+SHA1-Digest: GleFkWr1Nf/AbYzKiCS5XtKzqJ4=
+
+Name: com/moyosoft/connector/ms/outlook/appointment/OutlookAppointment
+ .class
+SHA1-Digest: Q7bHerKk/ISkjX0/b3hBAVyFpZE=
+
+Name: com/moyosoft/connector/ms/outlook/mail/OutlookReport.class
+SHA1-Digest: DTbAiNkb+FPnn++sM4tL9LaSwkU=
+
+Name: com/moyosoft/connector/ms/outlook/recurrence/RecurrenceState.cla
+ ss
+SHA1-Digest: 68twJ1QsoRbye/ImvD011V+0F48=
+
+Name: com/moyosoft/connector/ms/outlook/c.class
+SHA1-Digest: VUkikHPuJZbR6rjWgamZf2YIN5c=
+
+Name: com/moyosoft/connector/ms/outlook/meeting/MeetingStatus.class
+SHA1-Digest: d9J9V/VyYueI5U8Vs5QGTqAzcIc=
+
+Name: com/moyosoft/connector/ms/outlook/folder/FoldersIterator.class
+SHA1-Digest: K6JrbKnydLsK1/+ws2Q8yxWyrrI=
+
+Name: com/moyosoft/connector/ms/outlook/addressentry/a.class
+SHA1-Digest: yTUDyxpFj4Qlw1nvRcKlcEBSUzs=
+
+Name: com/moyosoft/connector/ms/outlook/util/OutlookSecurityManager.cl
+ ass
+SHA1-Digest: /swrw5y6Qo5AtQbzdE613+bFbFE=
+
+Name: com/moyosoft/connector/ms/outlook/ui/Pane.class
+SHA1-Digest: D/UBVdIQfixAaDzS8wFzUSGz8x8=
+
+Name: com/moyosoft/connector/ms/outlook/recipient/OutlookTaskRecipient
+ .class
+SHA1-Digest: MYz75U+slxHJ/F5sMiNY+7R+PSc=
+
+Name: com/moyosoft/connector/ms/outlook/remote/OutlookRemoteItem.class
+SHA1-Digest: G451AStN5HeJ1qPSKqvQ2/qqQ3c=
+
+Name: com/moyosoft/connector/ms/outlook/task/TaskOwnership.class
+SHA1-Digest: nDjrtkRA9lDpAuhSeU59YuCN+iQ=
+
+Name: com/moyosoft/connector/ms/outlook/properties/UserPropertiesColle
+ ction.class
+SHA1-Digest: Cvert+7yexhX5c4TwA14znprYwU=
+
+Name: com/moyosoft/connector/ms/outlook/ui/OutlookWindowType.class
+SHA1-Digest: 4a/zzMEpNzV8pnCw1PPYKF8TNFc=
+
+Name: com/moyosoft/connector/ms/outlook/post/OutlookPost.class
+SHA1-Digest: U9q5enVrMY5/YliEReU5dZdWrUE=
+
+Name: com/moyosoft/connector/ms/outlook/recipient/a.class
+SHA1-Digest: n6KZJpOIvz/XHF/RwF1guMHdDwY=
+
+Name: com/moyosoft/connector/ms/outlook/recipient/OutlookJournalRecipi
+ ent.class
+SHA1-Digest: gjll0f25gHlv9BnLwRHWScBHtO8=
+
+Name: com/moyosoft/connector/ms/outlook/ui/ViewType.class
+SHA1-Digest: hTxnJdnbYUHJayFZardwGwnpj8A=
+
+Name: com/moyosoft/connector/ms/outlook/attachment/AttachmentsCollecti
+ on.class
+SHA1-Digest: Svgqek1qIbDFWC9zp0pXMnsNtFE=
+
+Name: com/moyosoft/connector/ms/outlook/appointment/BusyStatus.class
+SHA1-Digest: FRoqLX5vo1SxSsastLv1gTkZF0w=
+
+Name: com/moyosoft/connector/ms/outlook/contact/FollowUpStatus.class
+SHA1-Digest: zJNSfkRryb26rXHNCU+A+QP14wM=
+
+Name: com/moyosoft/connector/ms/outlook/recurrence/RecurrenceType.clas
+ s
+SHA1-Digest: B42P2Bcj+GPd+H/0RsyT1cVvJls=
+
+Name: com/moyosoft/connector/ms/outlook/recipient/RecipientsCollection
+ .class
+SHA1-Digest: 01M6O6ZaNfMAA2c0wuc3Tm3jKiM=
+
+Name: com/moyosoft/connector/ms/outlook/task/TaskStatus.class
+SHA1-Digest: ZKjDJV+t3SoTplVoslOV1QOTbHE=
+
+Name: com/moyosoft/connector/ms/outlook/attachment/AttachmentType.clas
+ s
+SHA1-Digest: 6BX0Jgzi9SBmfVBWs8qPWD4KzYM=
+
+Name: com/moyosoft/connector/ms/outlook/util/a.class
+SHA1-Digest: cukeJ2CLG6X3S6or3a+kvJNxpws=
+
+Name: com/moyosoft/connector/ms/outlook/ui/a.class
+SHA1-Digest: E9qlwGEcVoAvZDvmRC/RlXsvvWg=
+
+Name: com/moyosoft/connector/ms/outlook/ui/View.class
+SHA1-Digest: jKkElB1TDibndnmnyFsxJNoqA9M=
+
+Name: com/moyosoft/connector/ms/outlook/meeting/MeetingResponse.class
+SHA1-Digest: 1/9sYPSrqqFClN2CP40mVdeORi0=
+
+Name: com/moyosoft/connector/ms/outlook/ui/Selection.class
+SHA1-Digest: eV4g0grziKYGvwjr98Vk0+rrogg=
+
+Name: com/moyosoft/connector/ms/outlook/item/FlagStatus.class
+SHA1-Digest: cn5MyQF3j7rmfKkC4KF2Cj88/GI=
+
+Name: com/moyosoft/connector/ms/outlook/mail/BodyFormat.class
+SHA1-Digest: /KyGGkhkAAUP1tpIr2LDiegiIw0=
+
+Name: com/moyosoft/connector/ms/outlook/item/OutlookLink.class
+SHA1-Digest: KRIBsDfwTjK3PkQqch2mD3PBPsU=
+
+Name: com/moyosoft/connector/ms/outlook/properties/ItemPropertiesColle
+ ction.class
+SHA1-Digest: Ih3HA26VJXLIji8ZEwCbuLdcaGU=
+
+Name: com/moyosoft/connector/ms/outlook/item/LinksCollection.class
+SHA1-Digest: 5H7+n33+x7tOMoXBOVbPxkd//MI=
+
+Name: com/moyosoft/connector/ms/outlook/properties/OutlookUserProperty
+ .class
+SHA1-Digest: E8E90OGVBOO8W0WvPO3XdBEVIbY=
+
+Name: com/moyosoft/connector/ms/outlook/ui/InspectorsCollection.class
+SHA1-Digest: zjCSclMRI5tFexowojeaPRFH6Q0=
+
+Name: com/moyosoft/connector/ms/outlook/folder/a.class
+SHA1-Digest: xS23bMttsNi1vHCJFFyyjtMnZ+w=
+
+Name: com/moyosoft/connector/ms/outlook/folder/OutlookFolderID.class
+SHA1-Digest: 47iASFnqoFGMzcyuIgxuouMjpko=
+
+Name: com/moyosoft/connector/ms/outlook/ui/OutlookBarShortcut.class
+SHA1-Digest: EDgnQ76BrzGAh2Vf/JHYxWcK9tk=
+
+Name: com/moyosoft/connector/ms/outlook/ui/OutlookBarPane.class
+SHA1-Digest: kFY0aiP8ZkW4YoBN3B2HnNDCz3k=
+
+Name: com/moyosoft/connector/ms/outlook/account/Account.class
+SHA1-Digest: I7Y3OXIMpNwLMjREVbtgxdpFRiE=
+
+Name: com/moyosoft/connector/ms/outlook/recipient/MailRecipientType.cl
+ ass
+SHA1-Digest: B0s8sq9/7i1CVbwffAU+F/dyM+8=
+
+Name: com/moyosoft/connector/ms/outlook/e.class
+SHA1-Digest: qzYVCZ2LKVcT0ccmxWdGFXZ1mL4=
+
+Name: com/moyosoft/connector/ms/outlook/ui/PanesCollection.class
+SHA1-Digest: USBFe4mgtjT+pxy/FOGi2keogGA=
+
+Name: com/moyosoft/connector/ms/outlook/util/CollectionIterator.class
+SHA1-Digest: ZMbnkfNqt01le++3JfsfOgGE7nM=
+
+Name: com/moyosoft/connector/ms/outlook/task/OutlookTaskRequest.class
+SHA1-Digest: ZrmQ6DawEL2k5ziXjBus9bzGIDY=
+
+Name: com/moyosoft/connector/ms/outlook/addressentry/AddressEntriesCol
+ lection.class
+SHA1-Digest: e02c3lFVdTAokDuF/J+aEnRq5rg=
+
+Name: com/moyosoft/connector/ms/outlook/addressentry/AddressEntry.clas
+ s
+SHA1-Digest: +1/DfpJ0dw88IOqmTTPvNvAEpxM=
+
+Name: com/moyosoft/connector/ms/outlook/meeting/OutlookMeeting.class
+SHA1-Digest: CCvL/Of8/icVz6SIiMfIE9JgVUk=
+
+Name: com/moyosoft/connector/ms/outlook/distlist/OutlookDistributionLi
+ st.class
+SHA1-Digest: 6++3lkOE4/rWvkymFnBEspl1mCM=
+
+Name: com/moyosoft/connector/ms/outlook/remote/RemoteStatus.class
+SHA1-Digest: OBi/P5b8F80tSpFdoG7cuT361mQ=
+
+Name: com/moyosoft/connector/ms/outlook/recipient/OutlookRecipient.cla
+ ss
+SHA1-Digest: 6I92yPZO2F7hgYisKv1PF/xZb30=
+
+Name: com/moyosoft/connector/ms/outlook/item/DisplayType.class
+SHA1-Digest: j7fv7DRnySm6FnZ15MM7N7zEhys=
+
+Name: com/moyosoft/connector/ms/outlook/addressentry/SortOrder.class
+SHA1-Digest: dPQFzbfSMm+bqx1whEgDClzq+J0=
+
+Name: com/moyosoft/connector/ms/outlook/ui/FormRegistry.class
+SHA1-Digest: bdpAargYWeMvlgXlyVOr+X+DjuQ=
+
+Name: com/moyosoft/connector/ms/outlook/properties/b.class
+SHA1-Digest: NLrh5ir2+4Bnlp7oNjBHUMcnRHw=
+
+Name: com/moyosoft/connector/ms/outlook/ui/OutlookBarStorage.class
+SHA1-Digest: EMuG//5kMaX4Au20zu3YGNWeXGA=
+
+Name: com/moyosoft/connector/ms/outlook/recipient/MeetingRecipientType
+ .class
+SHA1-Digest: vdLJjPLHRRLT6umtvYNM6Nkawk8=
+
+Name: com/moyosoft/connector/ms/outlook/item/b.class
+SHA1-Digest: zSorBrLpPoAbdUkS30iF0qBPE5M=
+
+Name: com/moyosoft/connector/ms/outlook/recurrence/DaysOfWeek.class
+SHA1-Digest: VtmPCU1P/lKweWYNlBl6YF1kVyE=
+
+Name: com/moyosoft/connector/ms/outlook/item/Gender.class
+SHA1-Digest: +6/OIS+3uMQdQX9bd+Vl0d18AeA=
+
+Name: com/moyosoft/connector/ms/outlook/item/OutlookItemID.class
+SHA1-Digest: WYZEAoIwylZI5zufsSZ++JcO/W0=
+
+Name: com/moyosoft/connector/ms/outlook/mail/Permission.class
+SHA1-Digest: up6bR4zMaHoRMXvLozmMLrnH67o=
+
+Name: com/moyosoft/connector/ms/outlook/item/DefaultOutlookItem.class
+SHA1-Digest: Fl8DGX9Cg/3bXbEETyDUjhTxNdg=
+
+Name: com/moyosoft/connector/ms/outlook/item/OutlookItemType.class
+SHA1-Digest: xdo/+AIrFjsw/xsxsrPgPr+VpzI=
+
+Name: com/moyosoft/connector/ms/outlook/ui/OutlookBarGroupsCollection.
+ class
+SHA1-Digest: GfNb46Pynlpdcdb6X16HrXPQfwY=
+
+Name: com/moyosoft/connector/ms/outlook/task/OutlookTask.class
+SHA1-Digest: txXG0BEipnjISRco7yCX6exAa1g=
+
+Name: com/moyosoft/connector/ms/outlook/attachment/OutlookAttachment.c
+ lass
+SHA1-Digest: AgWv4AKWCqYNcvkY3NZyBgmD+/E=
+
+Name: com/moyosoft/connector/ms/outlook/attachment/AttachmentsIterator
+ .class
+SHA1-Digest: wtkkXjVCEdpZCr5H/lQFp+wDfJE=
+
+Name: com/moyosoft/connector/ms/outlook/appointment/NetMeetingType.cla
+ ss
+SHA1-Digest: vU79cYWhvkmPIVAIxJ/GVDxyt0s=
+
+Name: com/moyosoft/connector/ms/outlook/folder/FolderType.class
+SHA1-Digest: ocoyHmoRukEJrwDMcMoeQHh+H6Q=
+
+Name: com/moyosoft/connector/ms/outlook/attachment/IAttachmentsContain
+ er.class
+SHA1-Digest: zoieGQQIawyqwDbWIsIVl3MVnkM=
+
+Name: com/moyosoft/connector/ms/outlook/ui/e.class
+SHA1-Digest: ggd5GGmZcWntBqZv6qZlkhqr/xc=
+
+Name: com/moyosoft/connector/ms/outlook/item/OutlookItem.class
+SHA1-Digest: zcipaj5HmYprN/AyG5s5unC8WVs=
+
+Name: com/moyosoft/connector/ms/outlook/util/ObjectClass.class
+SHA1-Digest: Ddt1Big8G7xduXlmBeGWUQ1gtz4=
+
+Name: com/moyosoft/connector/ms/outlook/account/AccountsCollection.cla
+ ss
+SHA1-Digest: mwTW9Tvmvj32dpunKysPkuRjNy8=
+
+Name: com/moyosoft/connector/ms/outlook/search/a.class
+SHA1-Digest: B6KWutkYizEyS+cRqYNSsUplDN8=
+
+Name: com/moyosoft/connector/ms/outlook/ui/FolderDisplayMode.class
+SHA1-Digest: 3zM3TKgxQPwA2Gm4CVsuQCLpWC0=
+
+Name: com/moyosoft/connector/ms/outlook/item/SaveAsType.class
+SHA1-Digest: kK4EgxK43+iwz1b/OGkhhXRRXq8=
+
+Name: com/moyosoft/connector/ms/outlook/folder/FolderStoreType.class
+SHA1-Digest: 5JtFuGE7t5jAm2R5su/SywnqnJs=
+
+Name: com/moyosoft/connector/ms/outlook/folder/ShowItemCount.class
+SHA1-Digest: 6+r6ZuDfAWMUzY5BycGXuiPcjG0=
+
+Name: com/moyosoft/connector/ms/outlook/contact/OutlookContact.class
+SHA1-Digest: cwhriCoU0MpnFMz0S7zzdSgwgWg=
+
+Name: com/moyosoft/connector/ms/outlook/item/DownloadState.class
+SHA1-Digest: SCRGw8A/9arvZqBs5gshNWz3MFY=
+
+Name: com/moyosoft/connector/ms/outlook/util/Mapi.class
+SHA1-Digest: qcrDnDtEwxmKvahz34ffLj/72mI=
+
+Name: com/moyosoft/connector/ms/outlook/recipient/OutlookMeetingRecipi
+ ent.class
+SHA1-Digest: Bob1tkca5caWeLx23zGS0ksGt4M=
+
+Name: com/moyosoft/connector/ms/outlook/ui/EditorType.class
+SHA1-Digest: ukRhnW5Ny9jyRhhrFmgdOZcoD0U=
+
+Name: com/moyosoft/connector/ms/outlook/properties/UserPropertyType.cl
+ ass
+SHA1-Digest: ALm4c8d7HEKO7RafslUUHoVPE3U=
+
+Name: com/moyosoft/connector/ms/outlook/ui/Explorer.class
+SHA1-Digest: VPmQtPaawaDWGwbsP03DSM75FFs=
+
+Name: com/moyosoft/connector/ms/outlook/item/ItemType.class
+SHA1-Digest: W3CCObL2Wtvn5veSCchulsA2i1c=
+
+Name: com/moyosoft/connector/ms/outlook/d.class
+SHA1-Digest: v2cZIxHqFouYlWJMNmuoS+P2EVY=
+
+Name: com/moyosoft/connector/ms/outlook/recurrence/ExceptionsCollectio
+ n.class
+SHA1-Digest: h2bB3hfjZeauQyF3aZkT2SiuoUo=
+
+Name: com/moyosoft/connector/ms/outlook/task/OutlookTaskRequestDecline
+ .class
+SHA1-Digest: Y8yBoR9tiC7mkQjBFyxj6Ha585A=
+
+Name: com/moyosoft/connector/ms/outlook/item/ItemsCollection.class
+SHA1-Digest: O6WzWGL4pq2QRGXmfewa0125gfI=
+
+Name: com/moyosoft/connector/ms/outlook/document/OutlookDocument.class
+SHA1-Digest: K4lExPJwU51CxxHkA7XSDEBrXdw=
+
+Name: com/moyosoft/connector/ms/outlook/properties/OutlookItemProperty
+ .class
+SHA1-Digest: s1G6e5as5nhTXnrW3j1acLk/Uf8=
+
+Name: com/moyosoft/connector/ms/outlook/recipient/TrackingStatus.class
+SHA1-Digest: cpe9ESx1OFWoE+Bpvbndx5HEp7c=
+
+Name: com/moyosoft/connector/ms/outlook/recipient/OutlookAppointmentRe
+ cipient.class
+SHA1-Digest: FcFkfR3Zdwo+MmHx9BDr3eXL3aU=
+
+Name: com/moyosoft/connector/ms/outlook/item/SensitivityType.class
+SHA1-Digest: 26KnloxdZyFW3pV2Xkuyx9oMx5A=
+
+Name: com/moyosoft/connector/ms/outlook/ui/ViewsCollection.class
+SHA1-Digest: Fg50PQv1jsJxYt8C3e5gxI0Xw5E=
+
+Name: com/moyosoft/connector/ms/outlook/addressentry/b.class
+SHA1-Digest: rs1pmi9NpzgYF2WMLjuZuWvPfio=
+
+Name: com/moyosoft/connector/ms/outlook/item/ConflictsCollection.class
+SHA1-Digest: JwPL2lFOiSRaVpbN7PzGn4tLx58=
+
+Name: com/moyosoft/connector/ms/outlook/mail/OutlookMail.class
+SHA1-Digest: hyxAIJggGefcG9xWbNnbEYc59E4=
+
+Name: com/moyosoft/connector/ms/outlook/ui/b.class
+SHA1-Digest: f9yvHVODh8w88NTIHIouC7xmPLE=
+
+Name: com/moyosoft/connector/ms/outlook/ui/WindowState.class
+SHA1-Digest: w9SIRovdXV/tiz2C5ZqXfw3974U=
+
+Name: com/moyosoft/connector/ms/outlook/ui/Inspector.class
+SHA1-Digest: ZjNm6Nq9ydbavrpKCs7411YTZ1U=
+
+Name: com/moyosoft/connector/ms/outlook/addressentry/AddressList.class
+SHA1-Digest: KpjG6GwNfLdbcSupN7XUBLUPTZU=
+
+Name: com/moyosoft/connector/ms/outlook/recurrence/RecurrenceException
+ .class
+SHA1-Digest: 4qaKLOEGLAPpye4vo7naREx1SmM=
+
+Name: com/moyosoft/connector/ms/outlook/reminder/RemindersCollection.c
+ lass
+SHA1-Digest: vQwyAhHYaBd7Aye0b7UVgZE97+8=
+
+Name: com/moyosoft/connector/ms/outlook/item/a.class
+SHA1-Digest: sD3/RucrvFE8xvBWNk6Phew9kt0=
+
+Name: com/moyosoft/connector/ms/outlook/ui/OutlookBarViewType.class
+SHA1-Digest: Gu1AxKGif8mnFEw0mhoV+D33j84=
+
+Name: com/moyosoft/connector/ms/outlook/task/OutlookTaskRequestAccept.
+ class
+SHA1-Digest: gOnCNTxsqnTG340EQi9SpPzAKGk=
+
+Name: com/moyosoft/connector/ms/outlook/ui/ExplorersCollection.class
+SHA1-Digest: HqVHSkmKxHVWu66sz5oPLjseLz0=
+
+Name: com/moyosoft/connector/ms/outlook/task/TaskDelegationState.class
+SHA1-Digest: tAbmUPUMEDzmNkt2G1yh8jkEPCc=
+
+Name: com/moyosoft/connector/ms/outlook/reminder/a.class
+SHA1-Digest: aPiMDw/ihB+N19ewJNaLPSgqOCY=
+
+Name: com/moyosoft/connector/ms/outlook/StoreType.class
+SHA1-Digest: euWnjkKFETOH+FMCpN14I3bsr/E=
+
+Name: com/moyosoft/connector/ms/outlook/item/FlagIcon.class
+SHA1-Digest: dsEq9Jy79a0Y5JiWpMg0f8qvxLQ=
+
+Name: com/moyosoft/connector/ms/outlook/contact/MailingAddressType.cla
+ ss
+SHA1-Digest: pIxeayNRIDgVxGluvAFnGuoOICQ=
+
+Name: com/moyosoft/connector/ms/outlook/ui/f.class
+SHA1-Digest: rR7nN1SL1GM1bRI+TUSsPkgXZJY=
+
+Name: com/moyosoft/connector/ms/outlook/recipient/TaskRecipientType.cl
+ ass
+SHA1-Digest: 1ngXzBmB3f92jGE2quQ6VZnvdwg=
+
+Name: com/moyosoft/connector/ms/outlook/reminder/Reminder.class
+SHA1-Digest: d6zu7lljsXhNYOwlsAAK0HAy4m8=
+
+Name: com/moyosoft/connector/ms/outlook/a.class
+SHA1-Digest: g77CG+mkQkce/z39aV96kDkE0VM=
+
+Name: com/moyosoft/connector/ms/outlook/search/ResultsCollection.class
+SHA1-Digest: RO95rqw50bPBJ1bc5luAbiNJvys=
+
+Name: com/moyosoft/connector/ms/outlook/ui/OutlookBarGroup.class
+SHA1-Digest: zAowE+0OoAWeeDTX47GbOfZdq5I=
+
+Name: com/moyosoft/connector/ms/outlook/b.class
+SHA1-Digest: AISa7ifP5KGp4y1XhSmzDOlkEUY=
+
+Name: com/moyosoft/connector/ms/outlook/properties/a.class
+SHA1-Digest: 1AHAnxpvk1cMy/KfubgWhscNLUY=
+
+Name: com/moyosoft/connector/ms/outlook/task/TaskResponseType.class
+SHA1-Digest: wGro9mp7GI8RuGhAwQbd0TSM2Rc=
+
+Name: com/moyosoft/connector/ms/outlook/ui/c.class
+SHA1-Digest: hMICTpKntR0LMH1iO7osYhM0WsQ=
+
+Name: com/moyosoft/connector/ms/outlook/item/ImportanceType.class
+SHA1-Digest: PlvXj3xNBXWu/DOz6+0CQy2/GP4=
+
+Name: com/moyosoft/connector/ms/outlook/addressentry/AddressListsColle
+ ction.class
+SHA1-Digest: 5i2KvF4ekAR2koa8uop1HVaTeGU=
+
+Name: com/moyosoft/connector/ms/outlook/ui/d.class
+SHA1-Digest: Zw4cpUsr8WTaKKdowdH+3xes5yQ=
+
+Name: com/moyosoft/connector/ms/outlook/util/CollectionIndexIterator.c
+ lass
+SHA1-Digest: NePK40Tiq+Fzf7UMEx/PAvSL8ho=
+
+Name: com/moyosoft/connector/ms/outlook/note/OutlookNote.class
+SHA1-Digest: xxRBOuUyWhzM0ltz3L+YXf6QMYw=
+
+Name: com/moyosoft/connector/ms/outlook/task/OutlookTaskRequestUpdate.
+ class
+SHA1-Digest: hlSCqOPvIWRwDzSwwPpdktZJrqo=
+
+Name: com/moyosoft/connector/ms/outlook/ui/OutlookWindow.class
+SHA1-Digest: eFt+nNLDdyp5PTpGLAb8p4CfK3s=
+
+Name: com/moyosoft/connector/ms/outlook/recipient/JournalRecipientType
+ .class
+SHA1-Digest: GOxr6kU/hYBvxFf2+W/tMlnyCIw=
+
+Name: com/moyosoft/connector/ms/outlook/note/NoteColor.class
+SHA1-Digest: tSvfkn4BHr/D+BHp7MNAgm0URB8=
+
+Name: com/moyosoft/connector/ms/outlook/item/c.class
+SHA1-Digest: O0HmrLZcjy1XrFyAMffzDOHZLt4=
+
+Name: com/moyosoft/connector/ms/outlook/appointment/ResponseStatus.cla
+ ss
+SHA1-Digest: +SItGU54VJxgATA/mM/yXPv7rfs=
+
+Name: com/moyosoft/connector/ms/outlook/account/AccountType.class
+SHA1-Digest: jpy1912kWRnOsVQ9Ab0g1Wt0UOw=
+
+Name: com/moyosoft/connector/ms/outlook/recurrence/a.class
+SHA1-Digest: DV1AZWcvyLBi8VLBKdT9hJZBGgI=
+
